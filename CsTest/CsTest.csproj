@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\KD.RestSharp.OAuth2SecretAuthenticator\KD.RestSharp.OAuth2SecretAuthenticator.fsproj" />
+    <PackageReference Include="KD.RestSharp.OAuth2SecretAuthenticator" Version="9.0.0" />
   </ItemGroup>
 
 </Project>
